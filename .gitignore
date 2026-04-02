@@ -1,7 +1,10 @@
-.env
 node_modules/
 dist/
-coverage/
-logs/
+dist-ssr/
+*.local
+.env
+.env.local
 *.log
 .DS_Store
+.vscode/
+coverage/
